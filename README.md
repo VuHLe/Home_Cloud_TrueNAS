@@ -8,4 +8,4 @@ Installing TrueNAS OS to manage my home server setting, then using TailScale, bu
 ![truenas_screenshot2](https://github.com/user-attachments/assets/b40ea219-b424-49d7-be82-3e8d4e2354cf)
 ![tailscale_screenshot](https://github.com/user-attachments/assets/b300143a-a314-4042-ae88-ecea0a0edb42)
 ![20250213_122104](https://github.com/user-attachments/assets/39ec08ac-a0c5-447f-bd92-3bee8d31edbc)
-![20250213_180407](https://github.com/user-attachments/assets/ce765ddd-d99c-437b-874f-6ccdcb03676c)
+![20250213_180145](https://github.com/user-attachments/assets/19aed3bc-9825-4621-a3ba-aa39c1a064ac)
